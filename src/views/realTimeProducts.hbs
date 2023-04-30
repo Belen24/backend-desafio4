@@ -1,0 +1,27 @@
+<h1>Lista de Productos en tiempo real</h1>
+
+
+<div style="margin:10px;">
+  <form id="productForm">
+    <input type="text" placeholder="Título" name="title"/>
+    <input type="text" placeholder="Descripción" name="description"/>
+    <input type="text" placeholder="Código" name="code"/>
+    <input type="text" placeholder="Precio" name="price"/>
+    <select name="status">
+      <option value="active">true</option>
+    </select>
+    <input type="text" placeholder="Stock" name="stock"/>
+    <input type="text" placeholder="Categoría" name="category"/>
+    <input type="text" placeholder="URL de imagen" name="thumbnails"/>
+    <button type="submit">Agregar</button>
+  </form>
+  <hr>
+  
+  <div id="messageLogs"></div>
+</div>
+
+
+<script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+
+<script src="socket.io/socket.io.js"></script>
+<script src="/js/realTimeProducts.js"></script>

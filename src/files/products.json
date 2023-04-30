@@ -1,0 +1,79 @@
+[
+  {
+    "title": "Aros Luna",
+    "description": "aros de plata 925",
+    "code": "def159",
+    "price": 8500,
+    "status": true,
+    "stock": 20,
+    "category": "aros",
+    "thumbnails": "https://cdn.shopify.com/s/files/1/0276/8155/4565/products/FAW181.jpg?v=1675110296",
+    "id": 1
+  },
+  {
+    "title": "Anillo de Plata",
+    "description": "anillo de plata 925",
+    "code": "abc123",
+    "price": 10500,
+    "status": true,
+    "stock": 10,
+    "category": "anillo",
+    "thumbnails": "https://distribuidoradejoyas.cl/9107-thickbox_default/anillo-antiestres-giratorio-de-plata-925-hombre.jpg",
+    "id": 2
+  },
+  {
+    "title": "Pulsera",
+    "description": "pulsera de plata 925",
+    "code": "adf564",
+    "price": 7500,
+    "status": true,
+    "stock": 10,
+    "category": "pulsera",
+    "thumbnails": "https://mabelita.com/wpmabelita/wp-content/uploads/2021/09/Pulsera_Puntos_Mabelita_01.jpg",
+    "id": 3
+  },
+  {
+    "title": "Anillo esmeralda",
+    "description": "anillo de plata 925",
+    "code": "lfh951",
+    "price": 15500,
+    "status": true,
+    "stock": 10,
+    "category": "anillo",
+    "thumbnails": "https://cdn3.aden.boutique/29692-large_default/anillo-esmeraldas-y-diamantes-plata-de-ley-925.jpg",
+    "id": 4
+  },
+  {
+    "title": "Pulsera luna",
+    "description": "pulsera de plata 925",
+    "code": "opu005",
+    "price": 7000,
+    "status": true,
+    "stock": 5,
+    "category": "pulsera",
+    "thumbnails": "https://mayoristas.miplata.es/2735-tonytheme_large_default_2x/pulsera-de-plata-luna-mayorista-de-plata.jpg",
+    "id": 5
+  },
+  {
+    "title": "aros",
+    "description": "aros de plata 925",
+    "code": "sdf789",
+    "price": "10500",
+    "status": "active",
+    "stock": "15",
+    "category": "aros",
+    "thumbnails": "",
+    "id": 6
+  },
+  {
+    "title": "pulsera",
+    "description": "pulsera de plata",
+    "code": "sfgh25",
+    "price": "12500",
+    "status": "active",
+    "stock": "15",
+    "category": "pulseras",
+    "thumbnails": "https://static.sammit.cl/3788/pulsera-rolo-estrellas-490a74-500.jpg",
+    "id": 7
+  }
+]
